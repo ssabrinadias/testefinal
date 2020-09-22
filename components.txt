@@ -1,8 +1,35 @@
-- Header
-- Caixa de pesquisa
-- Cards com saldo
-- Box últimos lançamentos (lista de lançamentos)
-- Box cartões (Descrição de faturas, lista)
-- Barra lateral
-- Card do usuário
-- Caixa dos serviços
+--- Tarefas
+
+* Construir Components
+
+** Construir componente principal (APP)
+
+** Criar SearchBox
+-- Campo de busca, chamada fake de api
+
+** Criar SideBar
+-- Barra lateral com icone do banco
+
+** Criar Card AccountCard
+-- Card com Titulo, e valor no body do card
+
+** Criar Card  UserCard
+-- Card com avatar e mensagem de saudação do usuário
+
+** Separar os CSS dos Components
+-- Separa o css de cada componente em arquivos ( procurar as classes)
+
+** Criar estrutura do projeto
+-- Estrutura inicial de pastas
+
+** Criar API (JSON server)
+-- API fake
+
+* Integrar componentes na página principal (APP)
+* Verificar CSS da APP
+* Testar
+* Deploy git pages [?]
+
+
+
+
