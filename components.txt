@@ -7,26 +7,35 @@
 ** Criar SearchBox
 -- Campo de busca, chamada fake de api
 
-** Criar SideBar
+** Criar SideBar :: Felipe
 -- Barra lateral com icone do banco
 
-** Criar Card AccountCard
+** Criar Card AccountCard :: Messias
 -- Card com Titulo, e valor no body do card
 
-** Criar Card  UserCard
+** Card ServiceCard :: José
+-- Card com borda lateral colorida com icone seguido do titulo serviço
+
+** Criar Card  UserCard :: Franklin
 -- Card com avatar e mensagem de saudação do usuário
+
+** Box Últimos laçamentos :: Sabrina
+-- Box com titulo e tabela, labels da tabela: Data, Descrição e Valor
+
+** Box Cartões :: Wallace
+-- Box com titulo e tabela, labels da tabela: Cartão, Vencimento, Valor e Fatura
 
 ** Separar os CSS dos Components
 -- Separa o css de cada componente em arquivos ( procurar as classes)
 
-** Criar estrutura do projeto
+** Criar estrutura do projeto OK
 -- Estrutura inicial de pastas
 
-** Criar API (JSON server)
+** Criar API (JSON server) OK
 -- API fake
 
-* Integrar componentes na página principal (APP)
-* Verificar CSS da APP
+* Integrar componentes na página principal (APP) :: Felipe
+* Verificar CSS da APP :: Felipe
 * Testar
 * Deploy git pages [?]
 
