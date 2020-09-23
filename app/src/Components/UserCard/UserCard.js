@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function UserCard(props) {
   const { username } = props
-  
+
   return (
     <div class="sidebar__profile">
       <p class="sidebar__profile-name">
