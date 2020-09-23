@@ -11,7 +11,10 @@ const StyleBox = styled.section`
 `;
 
 const Box = ({ children, title }) => (
-    <StyleBox>{children}</StyleBox>
+    <StyleBox>
+        <h2>{title}</h2>
+        {children}
+    </StyleBox>
 );
 
 export default Layout;
